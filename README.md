@@ -5,7 +5,7 @@
 </br>
 </br>
 
-# About Me 💬:
+# About Me:
 🌱 Hi, I'm @oxmau (jay) </br>
 𓃗 I'm interested in Coding, Computer Engineering, and Cyber Security </br>
 🧸 I'm currently a second-year at California State Polytechnic University, Pomona. </br>
