@@ -6,8 +6,7 @@
 - ✉️ Reach Me @: kryctle@proton.me
   
 ## 🌍 Socials:
-[linkedin.com/in/jisuhun](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)
-
+![www.linkedin.com/in/jisuhun](https://github.com/user-attachments/assets/b32bfbb4-f486-4ed3-af08-2fd7f954cba9)
 <!--
 **oxmau/oxmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
