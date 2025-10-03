@@ -6,4 +6,3 @@
 - ✉️ Reach Me @: kryctle@proton.me
 
 ## Socials:
-[![name](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](www.linkedin.com/in/jisuhun)
