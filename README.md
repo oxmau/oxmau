@@ -10,13 +10,10 @@
 𓃗 I'm interested in Coding, Computer Engineering, and Cyber Security </br>
 🧸 I'm currently a second-year at California State Polytechnic University, Pomona. </br>
  ✉️ Reach Me @: kryctle@proton.me
- 
 </br>
 
 # 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jisuhun/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kryctle@proton.me) 
-
-</br>
 </br>
 
 # 🛠️ Languages and Tools:
