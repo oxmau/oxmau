@@ -6,7 +6,7 @@
 </br>
 
 # About Me:
-🌱 Hi, I'm @oxmau (jay) </br>
+🌱 Hi, I'm Jared </br>
 𓃗 I'm interested in Coding, Computer Engineering, and Cyber Security </br>
 🧸 I'm currently a second-year at California State Polytechnic University, Pomona. </br>
  ✉️ Reach Me @: kryctle@proton.me
