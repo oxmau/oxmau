@@ -14,6 +14,17 @@
 
 # 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jisuhun/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kryctle@proton.me) 
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=oxmau&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
+
+</br>
 </br>
 
 # 🛠️ Languages and Tools:
