@@ -5,8 +5,9 @@
 - 🤓 Skills: C++, JavaScript, Python, GitHub, Node.js
 - ✉️ Reach Me @: kryctle@proton.me
 
-<!--
-**oxmau/oxmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials:
+[![name](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](www.linkedin.com/in/jisuhun)
+
 
 Here are some ideas to get you started:
 
